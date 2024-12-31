@@ -1,0 +1,690 @@
+-------new refresh------
+get camframe:  50.40931701660156 ms
+process facemesh:  72.45516777038574 ms
+get landmarks:  78.53198051452637 ms
+set gaze vars:  0.10037422180175781 ms
+mediapipe gaze refresh:  78.98378372192383 ms
+pupil transform: 2.0520687103271484 ms
+EMAFilter.filter(): 0.0152587890625 ms
+display:  0.00286102294921875 ms
+refresh: 144.21343803405762 ms
+-------new refresh------
+get camframe:  22.537708282470703 ms
+process facemesh:  85.58988571166992 ms
+get landmarks:  91.32552146911621 ms
+set gaze vars:  0.056743621826171875 ms
+mediapipe gaze refresh:  91.49765968322754 ms
+pupil transform: 6.738901138305664 ms
+EMAFilter.filter(): 0.20837783813476562 ms
+display:  0.00476837158203125 ms
+refresh: 130.44500350952148 ms
+-------new refresh------
+get camframe:  44.42906379699707 ms
+process facemesh:  82.48519897460938 ms
+get landmarks:  86.69114112854004 ms
+set gaze vars:  0.056743621826171875 ms
+mediapipe gaze refresh:  86.85922622680664 ms
+pupil transform: 1.4662742614746094 ms
+EMAFilter.filter(): 0.0514984130859375 ms
+display:  0.001430511474609375 ms
+refresh: 136.52682304382324 ms
+-------new refresh------
+get camframe:  26.19314193725586 ms
+process facemesh:  69.59748268127441 ms
+get landmarks:  80.66511154174805 ms
+set gaze vars:  0.05269050598144531 ms
+mediapipe gaze refresh:  80.86562156677246 ms
+pupil transform: 0.5154609680175781 ms
+EMAFilter.filter(): 0.06270408630371094 ms
+display:  0.0021457672119140625 ms
+refresh: 111.18602752685547 ms
+-------new refresh------
+get camframe:  28.443336486816406 ms
+process facemesh:  44.682979583740234 ms
+get landmarks:  47.12629318237305 ms
+set gaze vars:  0.06461143493652344 ms
+mediapipe gaze refresh:  47.354698181152344 ms
+pupil transform: 0.5965232849121094 ms
+EMAFilter.filter(): 0.06318092346191406 ms
+display:  0.0019073486328125 ms
+refresh: 80.35588264465332 ms
+-------new refresh------
+get camframe:  14.09912109375 ms
+process facemesh:  64.73731994628906 ms
+get landmarks:  71.33960723876953 ms
+set gaze vars:  0.0896453857421875 ms
+mediapipe gaze refresh:  71.64764404296875 ms
+pupil transform: 0.5190372467041016 ms
+EMAFilter.filter(): 0.07343292236328125 ms
+display:  0.0026226043701171875 ms
+refresh: 90.45171737670898 ms
+-------new refresh------
+get camframe:  24.840354919433594 ms
+process facemesh:  76.8132209777832 ms
+get landmarks:  88.95564079284668 ms
+set gaze vars:  0.056743621826171875 ms
+mediapipe gaze refresh:  89.21360969543457 ms
+pupil transform: 0.42629241943359375 ms
+EMAFilter.filter(): 0.06532669067382812 ms
+display:  0.0016689300537109375 ms
+refresh: 120.23019790649414 ms
+-------new refresh------
+get camframe:  17.864704132080078 ms
+process facemesh:  124.43399429321289 ms
+get landmarks:  132.63630867004395 ms
+set gaze vars:  0.13446807861328125 ms
+mediapipe gaze refresh:  133.02111625671387 ms
+pupil transform: 0.48232078552246094 ms
+EMAFilter.filter(): 0.11348724365234375 ms
+display:  0.0040531158447265625 ms
+refresh: 157.47475624084473 ms
+-------new refresh------
+get camframe:  23.098230361938477 ms
+process facemesh:  70.23954391479492 ms
+get landmarks:  74.58949089050293 ms
+set gaze vars:  0.09274482727050781 ms
+mediapipe gaze refresh:  74.82600212097168 ms
+pupil transform: 8.219480514526367 ms
+EMAFilter.filter(): 0.09584426879882812 ms
+display:  0.0050067901611328125 ms
+refresh: 110.51440238952637 ms
+-------new refresh------
+get camframe:  19.123077392578125 ms
+process facemesh:  47.32513427734375 ms
+get landmarks:  56.84018135070801 ms
+set gaze vars:  0.07915496826171875 ms
+mediapipe gaze refresh:  57.16419219970703 ms
+pupil transform: 0.8637905120849609 ms
+EMAFilter.filter(): 0.09202957153320312 ms
+display:  0.0016689300537109375 ms
+refresh: 83.90069007873535 ms
+-------new refresh------
+get camframe:  25.14958381652832 ms
+process facemesh:  63.88688087463379 ms
+get landmarks:  66.40362739562988 ms
+set gaze vars:  0.0629425048828125 ms
+mediapipe gaze refresh:  66.63227081298828 ms
+pupil transform: 0.6673336029052734 ms
+EMAFilter.filter(): 0.13113021850585938 ms
+display:  0.0021457672119140625 ms
+refresh: 102.97536849975586 ms
+-------new refresh------
+get camframe:  24.50108528137207 ms
+process facemesh:  71.10118865966797 ms
+get landmarks:  76.61128044128418 ms
+set gaze vars:  0.080108642578125 ms
+mediapipe gaze refresh:  76.84993743896484 ms
+pupil transform: 0.5581378936767578 ms
+EMAFilter.filter(): 0.21147727966308594 ms
+display:  0.0016689300537109375 ms
+refresh: 106.22096061706543 ms
+-------new refresh------
+get camframe:  40.39597511291504 ms
+process facemesh:  77.74114608764648 ms
+get landmarks:  81.63237571716309 ms
+set gaze vars:  0.07343292236328125 ms
+mediapipe gaze refresh:  81.98094367980957 ms
+pupil transform: 0.5276203155517578 ms
+EMAFilter.filter(): 0.059604644775390625 ms
+display:  0.0011920928955078125 ms
+refresh: 127.72035598754883 ms
+-------new refresh------
+get camframe:  26.862621307373047 ms
+process facemesh:  120.48745155334473 ms
+get landmarks:  124.0689754486084 ms
+set gaze vars:  0.05888938903808594 ms
+mediapipe gaze refresh:  124.34816360473633 ms
+pupil transform: 0.5619525909423828 ms
+EMAFilter.filter(): 0.06508827209472656 ms
+display:  0.001430511474609375 ms
+refresh: 156.15200996398926 ms
+-------new refresh------
+get camframe:  63.27462196350098 ms
+process facemesh:  119.60220336914062 ms
+get landmarks:  143.17727088928223 ms
+set gaze vars:  0.10180473327636719 ms
+mediapipe gaze refresh:  143.41020584106445 ms
+pupil transform: 3.173351287841797 ms
+EMAFilter.filter(): 0.10442733764648438 ms
+display:  0.0019073486328125 ms
+refresh: 224.9002456665039 ms
+-------new refresh------
+get camframe:  19.685745239257812 ms
+process facemesh:  92.02456474304199 ms
+get landmarks:  94.56110000610352 ms
+set gaze vars:  0.11563301086425781 ms
+mediapipe gaze refresh:  94.76399421691895 ms
+pupil transform: 0.4475116729736328 ms
+EMAFilter.filter(): 0.05459785461425781 ms
+display:  0.00095367431640625 ms
+refresh: 118.03483963012695 ms
+-------new refresh------
+get camframe:  47.78265953063965 ms
+process facemesh:  44.679880142211914 ms
+get landmarks:  47.31297492980957 ms
+set gaze vars:  0.05221366882324219 ms
+mediapipe gaze refresh:  47.47486114501953 ms
+pupil transform: 0.34689903259277344 ms
+EMAFilter.filter(): 0.04076957702636719 ms
+display:  0.00095367431640625 ms
+refresh: 98.24514389038086 ms
+-------new refresh------
+get camframe:  19.81353759765625 ms
+process facemesh:  68.6349868774414 ms
+get landmarks:  98.88648986816406 ms
+set gaze vars:  0.06723403930664062 ms
+mediapipe gaze refresh:  101.2570858001709 ms
+pupil transform: 3.4351348876953125 ms
+EMAFilter.filter(): 0.14352798461914062 ms
+display:  0.0019073486328125 ms
+refresh: 130.29122352600098 ms
+-------new refresh------
+get camframe:  23.002147674560547 ms
+process facemesh:  58.724164962768555 ms
+get landmarks:  70.0831413269043 ms
+set gaze vars:  0.08535385131835938 ms
+mediapipe gaze refresh:  71.11477851867676 ms
+pupil transform: 0.8442401885986328 ms
+EMAFilter.filter(): 0.06580352783203125 ms
+display:  0.00095367431640625 ms
+refresh: 99.33304786682129 ms
+-------new refresh------
+get camframe:  58.67815017700195 ms
+process facemesh:  50.39620399475098 ms
+get landmarks:  54.18252944946289 ms
+set gaze vars:  0.04363059997558594 ms
+mediapipe gaze refresh:  54.32701110839844 ms
+pupil transform: 0.4315376281738281 ms
+EMAFilter.filter(): 0.061511993408203125 ms
+display:  0.0011920928955078125 ms
+refresh: 116.70994758605957 ms
+-------new refresh------
+get camframe:  40.223121643066406 ms
+process facemesh:  76.4322280883789 ms
+get landmarks:  81.56561851501465 ms
+set gaze vars:  0.06008148193359375 ms
+mediapipe gaze refresh:  81.88533782958984 ms
+pupil transform: 0.6928443908691406 ms
+EMAFilter.filter(): 0.08320808410644531 ms
+display:  0.0019073486328125 ms
+refresh: 127.50959396362305 ms
+-------new refresh------
+get camframe:  39.39318656921387 ms
+process facemesh:  65.43970108032227 ms
+get landmarks:  72.94726371765137 ms
+set gaze vars:  0.1842975616455078 ms
+mediapipe gaze refresh:  73.29916954040527 ms
+pupil transform: 0.7383823394775391 ms
+EMAFilter.filter(): 0.13184547424316406 ms
+display:  0.0045299530029296875 ms
+refresh: 122.39432334899902 ms
+-------new refresh------
+get camframe:  24.583101272583008 ms
+process facemesh:  58.47573280334473 ms
+get landmarks:  61.51008605957031 ms
+set gaze vars:  0.08535385131835938 ms
+mediapipe gaze refresh:  61.88201904296875 ms
+pupil transform: 3.8199424743652344 ms
+EMAFilter.filter(): 0.0858306884765625 ms
+display:  0.002384185791015625 ms
+refresh: 102.88405418395996 ms
+-------new refresh------
+get camframe:  31.034469604492188 ms
+process facemesh:  46.17023468017578 ms
+get landmarks:  48.889875411987305 ms
+set gaze vars:  0.06580352783203125 ms
+mediapipe gaze refresh:  49.056291580200195 ms
+pupil transform: 0.45871734619140625 ms
+EMAFilter.filter(): 0.05078315734863281 ms
+display:  0.001430511474609375 ms
+refresh: 84.0139389038086 ms
+-------new refresh------
+get camframe:  23.33807945251465 ms
+process facemesh:  57.96170234680176 ms
+get landmarks:  64.53323364257812 ms
+set gaze vars:  0.17309188842773438 ms
+mediapipe gaze refresh:  64.9111270904541 ms
+pupil transform: 0.5362033843994141 ms
+EMAFilter.filter(): 0.080108642578125 ms
+display:  0.00286102294921875 ms
+refresh: 92.93794631958008 ms
+-------new refresh------
+get camframe:  24.52373504638672 ms
+process facemesh:  62.6068115234375 ms
+get landmarks:  71.56801223754883 ms
+set gaze vars:  0.05030632019042969 ms
+mediapipe gaze refresh:  71.76971435546875 ms
+pupil transform: 1.1267662048339844 ms
+EMAFilter.filter(): 0.1800060272216797 ms
+display:  0.00095367431640625 ms
+refresh: 102.6923656463623 ms
+-------new refresh------
+get camframe:  28.496742248535156 ms
+process facemesh:  55.75394630432129 ms
+get landmarks:  62.08038330078125 ms
+set gaze vars:  0.06937980651855469 ms
+mediapipe gaze refresh:  62.4384880065918 ms
+pupil transform: 2.709627151489258 ms
+EMAFilter.filter(): 0.06318092346191406 ms
+display:  0.00095367431640625 ms
+refresh: 101.03917121887207 ms
+-------new refresh------
+get camframe:  28.580427169799805 ms
+process facemesh:  64.68582153320312 ms
+get landmarks:  73.88663291931152 ms
+set gaze vars:  0.05364418029785156 ms
+mediapipe gaze refresh:  74.03087615966797 ms
+pupil transform: 1.5299320220947266 ms
+EMAFilter.filter(): 0.1277923583984375 ms
+display:  0.0016689300537109375 ms
+refresh: 115.1437759399414 ms
+-------new refresh------
+get camframe:  25.09474754333496 ms
+process facemesh:  53.21812629699707 ms
+get landmarks:  59.89956855773926 ms
+set gaze vars:  1.0347366333007812 ms
+mediapipe gaze refresh:  64.67795372009277 ms
+pupil transform: 2.8731822967529297 ms
+EMAFilter.filter(): 0.16236305236816406 ms
+display:  0.0011920928955078125 ms
+refresh: 105.70836067199707 ms
+-------new refresh------
+get camframe:  24.794340133666992 ms
+process facemesh:  75.61182975769043 ms
+get landmarks:  82.41796493530273 ms
+set gaze vars:  0.0629425048828125 ms
+mediapipe gaze refresh:  82.66854286193848 ms
+pupil transform: 0.6411075592041016 ms
+EMAFilter.filter(): 0.0820159912109375 ms
+display:  0.0016689300537109375 ms
+refresh: 113.7545108795166 ms
+-------new refresh------
+get camframe:  12.019634246826172 ms
+process facemesh:  67.02566146850586 ms
+get landmarks:  76.84826850891113 ms
+set gaze vars:  0.06842613220214844 ms
+mediapipe gaze refresh:  77.11338996887207 ms
+pupil transform: 0.7121562957763672 ms
+EMAFilter.filter(): 0.11682510375976562 ms
+display:  0.00286102294921875 ms
+refresh: 94.33579444885254 ms
+-------new refresh------
+get camframe:  36.63229942321777 ms
+process facemesh:  60.40692329406738 ms
+get landmarks:  75.48403739929199 ms
+set gaze vars:  0.06890296936035156 ms
+mediapipe gaze refresh:  75.64663887023926 ms
+pupil transform: 0.4208087921142578 ms
+EMAFilter.filter(): 0.04863739013671875 ms
+display:  0.0021457672119140625 ms
+refresh: 121.04654312133789 ms
+-------new refresh------
+get camframe:  32.80806541442871 ms
+process facemesh:  81.50291442871094 ms
+get landmarks:  84.37848091125488 ms
+set gaze vars:  0.04673004150390625 ms
+mediapipe gaze refresh:  84.6555233001709 ms
+pupil transform: 0.5059242248535156 ms
+EMAFilter.filter(): 0.31375885009765625 ms
+display:  0.0016689300537109375 ms
+refresh: 123.11625480651855 ms
+-------new refresh------
+get camframe:  36.8962287902832 ms
+process facemesh:  56.47635459899902 ms
+get landmarks:  60.49990653991699 ms
+set gaze vars:  0.06079673767089844 ms
+mediapipe gaze refresh:  61.510324478149414 ms
+pupil transform: 0.4355907440185547 ms
+EMAFilter.filter(): 0.07677078247070312 ms
+display:  0.00095367431640625 ms
+refresh: 101.80091857910156 ms
+-------new refresh------
+get camframe:  42.916297912597656 ms
+process facemesh:  56.55837059020996 ms
+get landmarks:  68.44639778137207 ms
+set gaze vars:  0.04649162292480469 ms
+mediapipe gaze refresh:  68.57705116271973 ms
+pupil transform: 0.5300045013427734 ms
+EMAFilter.filter(): 0.057697296142578125 ms
+display:  0.001430511474609375 ms
+refresh: 116.09983444213867 ms
+-------new refresh------
+get camframe:  22.58443832397461 ms
+process facemesh:  55.41825294494629 ms
+get landmarks:  58.08234214782715 ms
+set gaze vars:  0.07867813110351562 ms
+mediapipe gaze refresh:  58.41374397277832 ms
+pupil transform: 3.3597946166992188 ms
+EMAFilter.filter(): 0.09012222290039062 ms
+display:  0.002384185791015625 ms
+refresh: 91.07589721679688 ms
+-------new refresh------
+get camframe:  18.514156341552734 ms
+process facemesh:  57.96408653259277 ms
+get landmarks:  61.322689056396484 ms
+set gaze vars:  0.09489059448242188 ms
+mediapipe gaze refresh:  61.602115631103516 ms
+pupil transform: 0.9737014770507812 ms
+EMAFilter.filter(): 0.1842975616455078 ms
+display:  0.0040531158447265625 ms
+refresh: 90.4536247253418 ms
+-------new refresh------
+get camframe:  16.13759994506836 ms
+process facemesh:  67.98434257507324 ms
+get landmarks:  70.90044021606445 ms
+set gaze vars:  0.06699562072753906 ms
+mediapipe gaze refresh:  71.11358642578125 ms
+pupil transform: 0.4324913024902344 ms
+EMAFilter.filter(): 0.12254714965820312 ms
+display:  0.001430511474609375 ms
+refresh: 91.34960174560547 ms
+-------new refresh------
+get camframe:  21.399974822998047 ms
+process facemesh:  59.15975570678711 ms
+get landmarks:  61.8593692779541 ms
+set gaze vars:  0.06103515625 ms
+mediapipe gaze refresh:  62.14261054992676 ms
+pupil transform: 0.568389892578125 ms
+EMAFilter.filter(): 0.07081031799316406 ms
+display:  0.0026226043701171875 ms
+refresh: 87.7375602722168 ms
+-------new refresh------
+get camframe:  88.36054801940918 ms
+process facemesh:  55.274009704589844 ms
+get landmarks:  69.63372230529785 ms
+set gaze vars:  0.08654594421386719 ms
+mediapipe gaze refresh:  70.73426246643066 ms
+pupil transform: 1.3637542724609375 ms
+EMAFilter.filter(): 0.1277923583984375 ms
+display:  0.003337860107421875 ms
+refresh: 168.5335636138916 ms
+-------new refresh------
+get camframe:  18.522024154663086 ms
+process facemesh:  87.18228340148926 ms
+get landmarks:  89.99013900756836 ms
+set gaze vars:  0.06937980651855469 ms
+mediapipe gaze refresh:  90.14391899108887 ms
+pupil transform: 0.3731250762939453 ms
+EMAFilter.filter(): 0.046253204345703125 ms
+display:  0.0011920928955078125 ms
+refresh: 113.45672607421875 ms
+-------new refresh------
+get camframe:  21.993637084960938 ms
+process facemesh:  67.89875030517578 ms
+get landmarks:  72.34001159667969 ms
+set gaze vars:  0.05555152893066406 ms
+mediapipe gaze refresh:  72.47614860534668 ms
+pupil transform: 0.9074211120605469 ms
+EMAFilter.filter(): 0.13756752014160156 ms
+display:  0.0045299530029296875 ms
+refresh: 102.04005241394043 ms
+-------new refresh------
+get camframe:  48.51055145263672 ms
+process facemesh:  85.9060287475586 ms
+get landmarks:  97.53799438476562 ms
+set gaze vars:  0.05245208740234375 ms
+mediapipe gaze refresh:  97.7628231048584 ms
+pupil transform: 0.5340576171875 ms
+EMAFilter.filter(): 3.4606456756591797 ms
+display:  0.0019073486328125 ms
+refresh: 154.72793579101562 ms
+-------new refresh------
+get camframe:  39.18194770812988 ms
+process facemesh:  65.63925743103027 ms
+get landmarks:  74.08857345581055 ms
+set gaze vars:  0.04553794860839844 ms
+mediapipe gaze refresh:  74.22447204589844 ms
+pupil transform: 0.5536079406738281 ms
+EMAFilter.filter(): 0.06794929504394531 ms
+display:  0.00095367431640625 ms
+refresh: 117.25401878356934 ms
+-------new refresh------
+get camframe:  17.631053924560547 ms
+process facemesh:  87.48817443847656 ms
+get landmarks:  98.32501411437988 ms
+set gaze vars:  0.05364418029785156 ms
+mediapipe gaze refresh:  98.46305847167969 ms
+pupil transform: 0.49996376037597656 ms
+EMAFilter.filter(): 0.05507469177246094 ms
+display:  0.0011920928955078125 ms
+refresh: 120.66006660461426 ms
+-------new refresh------
+get camframe:  17.693758010864258 ms
+process facemesh:  53.99131774902344 ms
+get landmarks:  58.93421173095703 ms
+set gaze vars:  0.08511543273925781 ms
+mediapipe gaze refresh:  59.17668342590332 ms
+pupil transform: 0.9210109710693359 ms
+EMAFilter.filter(): 0.05221366882324219 ms
+display:  0.0011920928955078125 ms
+refresh: 82.72624015808105 ms
+-------new refresh------
+get camframe:  19.992589950561523 ms
+process facemesh:  68.12644004821777 ms
+get landmarks:  74.60713386535645 ms
+set gaze vars:  0.0705718994140625 ms
+mediapipe gaze refresh:  74.78713989257812 ms
+pupil transform: 0.4482269287109375 ms
+EMAFilter.filter(): 0.043392181396484375 ms
+display:  0.00095367431640625 ms
+refresh: 98.84190559387207 ms
+-------new refresh------
+get camframe:  29.239416122436523 ms
+process facemesh:  54.15177345275879 ms
+get landmarks:  62.360525131225586 ms
+set gaze vars:  0.1285076141357422 ms
+mediapipe gaze refresh:  62.615156173706055 ms
+pupil transform: 1.3909339904785156 ms
+EMAFilter.filter(): 0.06771087646484375 ms
+display:  0.00095367431640625 ms
+refresh: 96.54617309570312 ms
+-------new refresh------
+get camframe:  32.30476379394531 ms
+process facemesh:  66.44916534423828 ms
+get landmarks:  72.54934310913086 ms
+set gaze vars:  0.05555152893066406 ms
+mediapipe gaze refresh:  72.73149490356445 ms
+pupil transform: 0.7655620574951172 ms
+EMAFilter.filter(): 0.08678436279296875 ms
+display:  0.004291534423828125 ms
+refresh: 112.42914199829102 ms
+-------new refresh------
+get camframe:  22.73702621459961 ms
+process facemesh:  57.096242904663086 ms
+get landmarks:  59.52787399291992 ms
+set gaze vars:  0.07796287536621094 ms
+mediapipe gaze refresh:  59.71789360046387 ms
+pupil transform: 5.171298980712891 ms
+EMAFilter.filter(): 1.3859272003173828 ms
+display:  0.003814697265625 ms
+refresh: 97.34010696411133 ms
+-------new refresh------
+get camframe:  23.133516311645508 ms
+process facemesh:  70.4202651977539 ms
+get landmarks:  73.58074188232422 ms
+set gaze vars:  0.08320808410644531 ms
+mediapipe gaze refresh:  73.76742362976074 ms
+pupil transform: 1.1165142059326172 ms
+EMAFilter.filter(): 0.07700920104980469 ms
+display:  0.0011920928955078125 ms
+refresh: 104.27975654602051 ms
+-------new refresh------
+get camframe:  22.301673889160156 ms
+process facemesh:  77.48103141784668 ms
+get landmarks:  89.17808532714844 ms
+set gaze vars:  0.07390975952148438 ms
+mediapipe gaze refresh:  89.38074111938477 ms
+pupil transform: 1.0104179382324219 ms
+EMAFilter.filter(): 0.04029273986816406 ms
+display:  0.001430511474609375 ms
+refresh: 120.32389640808105 ms
+-------new refresh------
+get camframe:  37.07385063171387 ms
+process facemesh:  70.93310356140137 ms
+get landmarks:  86.99321746826172 ms
+set gaze vars:  0.10418891906738281 ms
+mediapipe gaze refresh:  87.33844757080078 ms
+pupil transform: 0.5383491516113281 ms
+EMAFilter.filter(): 0.3337860107421875 ms
+display:  0.0021457672119140625 ms
+refresh: 137.4683380126953 ms
+-------new refresh------
+get camframe:  42.4656867980957 ms
+process facemesh:  83.41455459594727 ms
+get landmarks:  89.80298042297363 ms
+set gaze vars:  0.05984306335449219 ms
+mediapipe gaze refresh:  90.1641845703125 ms
+pupil transform: 0.5395412445068359 ms
+EMAFilter.filter(): 0.11587142944335938 ms
+display:  0.0019073486328125 ms
+refresh: 138.2591724395752 ms
+-------new refresh------
+get camframe:  18.737316131591797 ms
+process facemesh:  58.467864990234375 ms
+get landmarks:  62.294721603393555 ms
+set gaze vars:  0.09989738464355469 ms
+mediapipe gaze refresh:  67.94095039367676 ms
+pupil transform: 0.44798851013183594 ms
+EMAFilter.filter(): 0.10323524475097656 ms
+display:  0.00476837158203125 ms
+refresh: 99.81751441955566 ms
+-------new refresh------
+get camframe:  34.27004814147949 ms
+process facemesh:  60.05549430847168 ms
+get landmarks:  64.07356262207031 ms
+set gaze vars:  0.07390975952148438 ms
+mediapipe gaze refresh:  64.2542839050293 ms
+pupil transform: 0.6251335144042969 ms
+EMAFilter.filter(): 0.07510185241699219 ms
+display:  0.0011920928955078125 ms
+refresh: 103.53326797485352 ms
+-------new refresh------
+get camframe:  42.376041412353516 ms
+process facemesh:  61.275482177734375 ms
+get landmarks:  72.47328758239746 ms
+set gaze vars:  0.08487701416015625 ms
+mediapipe gaze refresh:  73.20880889892578 ms
+pupil transform: 1.4052391052246094 ms
+EMAFilter.filter(): 0.23889541625976562 ms
+display:  0.007152557373046875 ms
+refresh: 132.89546966552734 ms
+-------new refresh------
+get camframe:  60.32443046569824 ms
+process facemesh:  65.28830528259277 ms
+get landmarks:  73.25625419616699 ms
+set gaze vars:  0.09655952453613281 ms
+mediapipe gaze refresh:  73.51374626159668 ms
+pupil transform: 1.1203289031982422 ms
+EMAFilter.filter(): 0.0629425048828125 ms
+display:  0.001430511474609375 ms
+refresh: 143.3403491973877 ms
+-------new refresh------
+get camframe:  43.007850646972656 ms
+process facemesh:  61.50698661804199 ms
+get landmarks:  68.7568187713623 ms
+set gaze vars:  0.5300045013427734 ms
+mediapipe gaze refresh:  69.65422630310059 ms
+pupil transform: 0.5512237548828125 ms
+EMAFilter.filter(): 0.05888938903808594 ms
+display:  0.0011920928955078125 ms
+refresh: 127.62117385864258 ms
+-------new refresh------
+get camframe:  29.3729305267334 ms
+process facemesh:  39.595842361450195 ms
+get landmarks:  53.478240966796875 ms
+set gaze vars:  0.0743865966796875 ms
+mediapipe gaze refresh:  54.41164970397949 ms
+pupil transform: 6.207704544067383 ms
+EMAFilter.filter(): 0.06890296936035156 ms
+display:  0.001430511474609375 ms
+refresh: 96.24862670898438 ms
+-------new refresh------
+get camframe:  29.67214584350586 ms
+process facemesh:  75.37961006164551 ms
+get landmarks:  86.80200576782227 ms
+set gaze vars:  0.04601478576660156 ms
+mediapipe gaze refresh:  87.59713172912598 ms
+pupil transform: 0.5502700805664062 ms
+EMAFilter.filter(): 2.5365352630615234 ms
+display:  0.0016689300537109375 ms
+refresh: 128.02743911743164 ms
+-------new refresh------
+get camframe:  33.2493782043457 ms
+process facemesh:  60.16731262207031 ms
+get landmarks:  68.20154190063477 ms
+set gaze vars:  0.06198883056640625 ms
+mediapipe gaze refresh:  69.42892074584961 ms
+pupil transform: 3.289937973022461 ms
+EMAFilter.filter(): 0.07009506225585938 ms
+display:  0.0011920928955078125 ms
+refresh: 111.44185066223145 ms
+-------new refresh------
+get camframe:  36.986589431762695 ms
+process facemesh:  64.1014575958252 ms
+get landmarks:  82.40890502929688 ms
+set gaze vars:  0.07390975952148438 ms
+mediapipe gaze refresh:  83.73165130615234 ms
+pupil transform: 0.8454322814941406 ms
+EMAFilter.filter(): 0.07796287536621094 ms
+display:  0.001430511474609375 ms
+refresh: 133.6214542388916 ms
+-------new refresh------
+get camframe:  38.44499588012695 ms
+process facemesh:  60.899972915649414 ms
+get landmarks:  63.82870674133301 ms
+set gaze vars:  0.11372566223144531 ms
+mediapipe gaze refresh:  64.26358222961426 ms
+pupil transform: 1.9893646240234375 ms
+EMAFilter.filter(): 0.16951560974121094 ms
+display:  0.003814697265625 ms
+refresh: 117.74277687072754 ms
+-------new refresh------
+get camframe:  35.253286361694336 ms
+process facemesh:  67.96431541442871 ms
+get landmarks:  73.51922988891602 ms
+set gaze vars:  0.051021575927734375 ms
+mediapipe gaze refresh:  73.72045516967773 ms
+pupil transform: 0.64849853515625 ms
+EMAFilter.filter(): 0.08034706115722656 ms
+display:  0.0007152557373046875 ms
+refresh: 113.50011825561523 ms
+-------new refresh------
+get camframe:  30.13753890991211 ms
+process facemesh:  73.53711128234863 ms
+get landmarks:  76.1876106262207 ms
+set gaze vars:  0.080108642578125 ms
+mediapipe gaze refresh:  76.41124725341797 ms
+pupil transform: 0.9222030639648438 ms
+EMAFilter.filter(): 0.20360946655273438 ms
+display:  0.0011920928955078125 ms
+refresh: 121.91462516784668 ms
+-------new refresh------
+get camframe:  16.09969139099121 ms
+process facemesh:  69.84567642211914 ms
+get landmarks:  78.41348648071289 ms
+set gaze vars:  0.14090538024902344 ms
+mediapipe gaze refresh:  78.80640029907227 ms
+pupil transform: 0.514984130859375 ms
+EMAFilter.filter(): 0.051021575927734375 ms
+display:  0.0011920928955078125 ms
+refresh: 101.45735740661621 ms
+-------new refresh------
+get camframe:  41.2139892578125 ms
+process facemesh:  62.830448150634766 ms
+get landmarks:  70.6167221069336 ms
+set gaze vars:  0.07557868957519531 ms
+mediapipe gaze refresh:  71.67410850524902 ms
+pupil transform: 1.4312267303466797 ms
+EMAFilter.filter(): 0.06961822509765625 ms
+display:  0.0007152557373046875 ms
+refresh: 122.4508285522461 ms
+-------new refresh------
+get camframe:  25.748252868652344 ms
+process facemesh:  51.19585990905762 ms
+get landmarks:  67.5199031829834 ms
+set gaze vars:  0.1277923583984375 ms
+mediapipe gaze refresh:  67.9931640625 ms
+pupil transform: 0.8544921875 ms
+EMAFilter.filter(): 0.2033710479736328 ms
+display:  0.001430511474609375 ms
+refresh: 106.6446304321289 ms

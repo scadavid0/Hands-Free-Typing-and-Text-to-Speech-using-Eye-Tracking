@@ -1,0 +1,14 @@
+There are two main files to run:
+
+-Keyboard_main.py (in VKeyboard-TTS folder) OR Game_class.py
+
+-example.py (in GazeTracking folder)
+
+First, run Keyboard_main.py. Make sure you've activated the environment with the necessary
+packages (see INSTALL.txt). This will display the interactive virtual keyboard that you
+will use to do gaze typing. 
+OR, run Game_class.py if you want to play the ball game instead.
+
+Next, run example.py (again, make sure the environment is active). This will start the
+calibration process. Once that finishes, your gaze will be controlling the cursor. Use
+your actual mouse or trackpad to click.

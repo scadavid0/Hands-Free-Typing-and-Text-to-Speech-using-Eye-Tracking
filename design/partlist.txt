@@ -1,0 +1,22 @@
+Raspberry Pi 4
+4295 (Product ID)   https://www.adafruit.com/product/4295?gad_source=1
+
+Picamera V2
+3099 (Product ID)   https://www.adafruit.com/product/3099?src=raspberrypi
+
+Picamera flex cable
+B00M4DAQH8 (ASIN)   https://www.amazon.com/Adafruit-Flex-Cable-Raspberry-Camera/dp/B00M4DAQH8
+
+Adjustable RPI camera mount and protector
+B08C26BQ52 (ASIN)	https://www.amazon.com/Adjustable-Raspberry-Camera-Module-Mount/dp/B08C26BQ52
+
+Mini speaker for RPI
+611138685047 (UPC)	https://www.amazon.com/SparkFun-Hamburger-Mini-Speaker/dp/B072BNLC1M
+
+Adjustable tripod for RPI camera
+664832279241 (UPC)  https://www.amazon.com/Tripod-Webcam-Phone-Extendable-Holder/dp/B093D3BDNP
+
+We also ordered the following but didn't end up using it:
+
+Google Coral USB Edge TPU accelerator (for running ml inference tasks on pi)
+842776110077 (UPC)	https://www.amazon.com/dp/B07S214S5Y

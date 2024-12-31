@@ -1,0 +1,10 @@
+First, when on raspberry pi 4, create and activate a python virtual environment (venv) 
+so that you can pip install the following.
+
+pip install mediapipe # (facial landmark detection)
+pip install pyautogui # (to control mouse cursor)
+pip install pyttsx3   # (tts functionality)
+pip install pygame    # (for the ball game)
+
+Make sure the environment with these packages is active when you run both Keyboard_main.py
+in the VKeyboard-TTS folder and example.py in the GazeTracking folder.
