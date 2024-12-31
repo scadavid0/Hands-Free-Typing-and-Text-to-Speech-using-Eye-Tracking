@@ -1,9 +1,9 @@
-Team members:
-Simon Cadavid (scadavid@umich.edu)
-Haoxiang Li   (haoxli@umich.edu)
-Pengyang Wu   (pengyanw@umich.edu)
+Team members / github usernames:
+Simon Cadavid (scadavid0)
+Haoxiang Li   (brsf11)
+Pengyang Wu   (pengyanw)
 
-zip file contents:
+repo file contents:
 
 "data" contains time data for several functions and methods in the gaze tracking code, to
 see what actually bottlenecks performance. getavgs.py reads the data and gets the averages,
@@ -15,8 +15,6 @@ and assembled out of the box, with a total cost of <$100 for our final setup.
 
 "src" contains the source code for the project with documentation on how it works and how
 to use it.
-
-"videos" contains the two video demos we should for our in-class presentation.
 
 COPYRIGHT.txt attests copyright for our project.
 
